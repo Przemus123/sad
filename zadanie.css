@@ -1,0 +1,57 @@
+div.q {
+   border-style: solid double;
+   background-color: #ff0000;
+   border-color: darkmagenta;
+   color: rgb(0, 0, 255);
+   border-width: 20px;
+   height: 150px;
+   width: 200px;
+   margin: 20px;
+   padding-left: 20%;
+}
+
+div.w {
+    border-style: dotted solid double dashed;
+    border-width: 20px;
+    border-color: crimson;
+    background-color: #ece912;
+    color: rgb(255, 0, 200);
+    border-radius: 20px;
+    height: 150px;
+    width: 200px;
+    margin: 10px;
+    padding-bottom: 10%;
+
+}
+
+div.e {
+    border-style: dashed;
+    border-width: 10px;
+    background-color:rgba(0, 255, 0, 0.966);
+    color:black;
+    border-color: brown;
+    border-radius: 100px;
+    height: 150px;
+    outline-style: double;
+    outline-width: 40px;
+    width: 200px;
+    margin: 150px;
+    padding-right: 5%;
+}
+
+div.r {
+    border-style: outset;
+    border-width: 20px;
+    background-color:lightsalmon;
+    color:whitesmoke;
+    border-color: darkmagenta;
+    border-radius: 5px;
+    height: 150px;
+    width: 200px;
+    margin: 15px;
+    padding-top: 10%;
+}
+
+div {
+    text-align: center;
+}
